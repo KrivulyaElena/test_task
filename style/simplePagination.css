@@ -1,0 +1,91 @@
+/**
+* CSS themes for simplePagination.js
+* Author: Flavius Matis - http://flaviusmatis.github.com/
+* URL: https://github.com/flaviusmatis/simplePagination.js
+*/
+
+ul.simple-pagination {
+	list-style: none;
+	
+}
+
+.simple-pagination {
+	display: block;
+	overflow: hidden;
+	margin: 0;
+	padding: 80px 0 110px 0;
+}
+
+.simple-pagination ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.simple-pagination li {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	float: left;
+}
+span.ellipse.clickable {
+	cursor: pointer;
+}
+
+.ellipse input {
+	width: 3em;
+}
+/*------------------------------------*\
+	Light Theme Styles
+\*------------------------------------*/
+.light-theme span {
+	cursor:pointer;
+}
+
+.light-theme a, .light-theme span {
+	float: left;	
+	font-weight: normal;
+	text-align: center;
+	font-size: 12px;
+    padding: 5px 10px;
+	border: 1px solid #ddd;
+    color: #909090;
+	background-color: transparent;
+}
+
+.light-theme a, .light-theme span + .light-theme a, .light-theme span {
+    margin-left: 10px;
+  }
+
+
+.light-theme a:hover, .light-theme li:not(.disabled):not(.active) span:hover {
+	text-decoration: none;
+	background: #FCFCFC;
+}
+
+.light-theme .current {
+	background: transparent;
+	border-color: #444;
+	color: #e24545;
+	cursor: default;
+}
+
+.light-theme .ellipse {
+	background: none;
+	border: none;
+	border-radius: 0;
+	box-shadow: none;
+	font-weight: bold;
+	cursor: default;
+}
+
+.prev, 
+.next{
+	visibility: hidden;
+}
+

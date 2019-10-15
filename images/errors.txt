@@ -1,0 +1,5 @@
+[2019-07-28 03:27:48] layer "google+": Expected end of input but "+" found.
+[2019-07-28 03:27:48] layer "M.E.X MegsShop Copyr": Expected end of input but "M" found.
+[2019-07-28 03:27:50] layer "cart.svg": Fonts may render inconsistently and text wrapping is unsupported which can result in clipped text. Convert text to a shape to maintain fidelity.
+[2019-07-28 03:27:50] layer "remove.svg": Fonts may render inconsistently and text wrapping is unsupported which can result in clipped text. Convert text to a shape to maintain fidelity.
+[2019-07-28 03:28:27] layer "blog.svg": Fonts may render inconsistently and text wrapping is unsupported which can result in clipped text. Convert text to a shape to maintain fidelity.

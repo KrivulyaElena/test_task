@@ -1,0 +1,58 @@
+[
+    {
+        "id": "0",
+        "title": "Huawei Mate S",
+        "price": 280,
+        "imageUrl": "images/1.png",
+        "alt": "img"
+    },
+    {
+        "id": "1",
+        "title": "SONY XPERIA Z5",
+        "price": 550,
+        "imageUrl": "images/2.png",
+        "alt": "img"
+    },
+    {
+        "id": "",
+        "title": "XIAOMI MI 4I",
+        "price": 350,
+        "imageUrl": "images/3.png",
+        "alt": "img"
+    },
+    {
+        "id": "3",
+        "title": "HUAWEI G8 4G",
+        "price": 350,
+        "imageUrl": "images/4.png",
+        "alt": "img"
+    },
+    {
+        "id": "4",
+        "title": "IPHONE ROSE GOLD",
+        "price": 280,
+        "imageUrl": "images/5.png",
+        "alt": "img"
+    },
+    {
+        "id": "5",
+        "title": "HUAWEI G8 4G",
+        "price": 350,
+        "imageUrl": "images/6.png",
+        "alt": "img"
+    },
+    {
+        "id": "6",
+        "title": "GALAXY CORE PRIME",
+        "price": 399,
+        "imageUrl": "images/7.png",
+        "alt": "img"
+    },
+    {
+        "id": "7",
+        "title": "APPLE IPHONE 6S",
+        "price": 550,
+        "imageUrl": "images/8.png",
+        "alt": "img"
+    }
+]

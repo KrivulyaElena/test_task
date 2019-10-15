@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 32px;
+        fill: #444;
+        text-anchor: end;
+        font-family: FontAwesome;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="hand.svg" class="cls-1" x="0.282" y="27.845"><tspan x="0.282"></tspan></text>
+</svg>
